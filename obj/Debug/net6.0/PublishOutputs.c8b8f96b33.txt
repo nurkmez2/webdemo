@@ -1,0 +1,7 @@
+C:\Src\demo-actions\webdemo\bin\Debug\net6.0\publish\webdemo.exe
+C:\Src\demo-actions\webdemo\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Src\demo-actions\webdemo\bin\Debug\net6.0\publish\appsettings.json
+C:\Src\demo-actions\webdemo\bin\Debug\net6.0\publish\webdemo.dll
+C:\Src\demo-actions\webdemo\bin\Debug\net6.0\publish\webdemo.deps.json
+C:\Src\demo-actions\webdemo\bin\Debug\net6.0\publish\webdemo.runtimeconfig.json
+C:\Src\demo-actions\webdemo\bin\Debug\net6.0\publish\webdemo.pdb
